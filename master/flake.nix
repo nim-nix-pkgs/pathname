@@ -11,6 +11,7 @@
   inputs.src-pathname-master.ref   = "refs/heads/master";
   inputs.src-pathname-master.owner = "RaimundHuebel";
   inputs.src-pathname-master.repo  = "nimpathname";
+  inputs.src-pathname-master.dir   = "";
   inputs.src-pathname-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

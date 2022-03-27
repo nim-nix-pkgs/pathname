@@ -11,6 +11,7 @@
   inputs.src-pathname-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-pathname-v0_1_1.owner = "RaimundHuebel";
   inputs.src-pathname-v0_1_1.repo  = "nimpathname";
+  inputs.src-pathname-v0_1_1.dir   = "";
   inputs.src-pathname-v0_1_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
