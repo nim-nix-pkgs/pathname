@@ -1,2 +1,0 @@
-The touch_... files/directories exist to test the touch-functionality of pathname/file_utils.
-
